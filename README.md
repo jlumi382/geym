@@ -52,9 +52,9 @@ geym/
 ```
 
 ### Notable Points:
-- **core** - this directory contains the Game loop
-- **models** - this contains the different Classes in the game 
-- **utils** - this contains functions that can shorten your code
+- **core** - This directory contains the Game loop.
+- **models** - This contains the different Classes in the game.
+- **utils** - This contains functions that can shorten your code and make it less repetitive.
 
 For every new header file and src file that is added, make sure to update the `CMakeLists.txt` file so it can compile.
 
