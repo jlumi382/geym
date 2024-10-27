@@ -102,7 +102,7 @@ We welcome contributions to this project! Please follow these guidelines to help
     Push the changes you made to your branch.
     ```bash
     git push origin your_github_username/your_feature_branch
-    ``
+    ```
 5. **Submit a pull request**
     If you're satisfied with your new feature, open a pull request against the main branch for review (we can also talk about it in the gc or in person hehe).
 
