@@ -1,0 +1,51 @@
+# Ignore clang cache directories
+.cache/
+
+# Ignore build directories
+/build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
+*.so
+*.dylib
+*.exe
+*.out
+
+# Ignore compiled object files
+*.o
+
+# Ignore SFML and other library files (if installed via Homebrew)
+*.dSYM/
+*.app/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore user-specific files
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# Ignore IDE and editor specific files
+*.vs/
+*.idea/
+*.vscode/
+*.xcodeproj/
+*.xcworkspace/
+
+# Ignore log files
+*.log
+
+# Ignore asset files that are generated or don't need to be tracked
+/assets/*.png
+/assets/*.jpg
+/assets/*.jpeg
+/assets/*.wav
+/assets/*.ogg
+
+# Ignore any other unwanted files
+.DS_Store
+Thumbs.db
+
