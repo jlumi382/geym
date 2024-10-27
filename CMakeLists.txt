@@ -24,7 +24,7 @@ set(UTILS_SRC
 )
 
 # Create the executable
-add_executable(game
+add_executable(geym
     src/main.cpp
     ${CORE_SRC}
     ${MODELS_SRC}
@@ -32,5 +32,5 @@ add_executable(game
 )
 
 # Link SFML libraries
-target_link_libraries(game sfml-graphics sfml-window sfml-system)
+target_link_libraries(geym sfml-graphics sfml-window sfml-system)
 
