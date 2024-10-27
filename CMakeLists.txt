@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(MyProject)
+project(geym)
 
 set(CMAKE_CXX_STANDARD 14)
 
@@ -32,5 +32,5 @@ add_executable(game
 )
 
 # Link SFML libraries
-target_link_libraries(MyProject sfml-graphics sfml-window sfml-system)
+target_link_libraries(game sfml-graphics sfml-window sfml-system)
 
