@@ -62,7 +62,7 @@ For every new header file and src file that is added, make sure to update the `C
 ## Setting Up the Development Environment
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jlumi382/geym.git
    ```
 
 2. **Building and Executing the Program**: Inside the project root directory, create a build directory, execute clang to generate a Makefile, then compile and execute:
@@ -89,7 +89,7 @@ We welcome contributions to this project! Please follow these guidelines to help
 ### If you are a collaborator:
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jlumi382/geym.git
 2. **Create a new branch**:
     Always create a new branch for your feature or idea:
     ```bash
